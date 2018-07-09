@@ -5,7 +5,7 @@ Detailed notes on experience https://stormasm.github.io/spec17
 
 * Here is the **[spec-md](https://github.com/leebyron/spec-md)** repository.
 
-* Here is my **[spec-md](https://github.com/stormasm/spec-md)** repository.
+* Here is my **[spec-md](https://github.com/stormblog/spec-md)** repository.
 
 Spec Markdown
 =============
