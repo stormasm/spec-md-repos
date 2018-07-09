@@ -14,9 +14,9 @@
   "bin": "./bin/spec-md",
   "main": "./src/index.js",
   "scripts": {
-    "start": "./bin/spec-md spec17.md > out/index.html",    
+    "start": "./bin/spec-md spec17.md > out/index.html",
     "test": "pegjs src/grammar.pegjs && ./bin/spec-md README.md > /dev/null",
-    "build": "pegjs src/grammar.pegjs && mkdir -p out && ./bin/spec-md -m spec/metadata.json README.md > out/index.html",
+    "build": "pegjs src/grammar.pegjs && mkdir -p out && ./bin/spec-md -m spec/metadata.json spec17.md > out/index.html",
     "watch": "nodemon --exec './bin/spec-md -m spec/metadata.json > out/index.html' README.md",
     "prepublish": "npm run build",
     "predeploy": "npm run build",
