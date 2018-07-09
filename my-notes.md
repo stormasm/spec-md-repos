@@ -6,7 +6,7 @@ and all I did was add a command to build my own personal blog / spec.
 Initially out of the box when you run
 
 ```
-npm install
+yarn
 ```
 
 the original spec17.md gets built...
