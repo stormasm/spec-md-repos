@@ -1,7 +1,7 @@
 
 Detailed notes on experience https://stormasm.github.io/spec17
 
-* **[Read This First](https://github.com/stormasm/spec17/blob/master/my-notes.md)**
+* **[Read This First](https://github.com/stormasm/spec18/blob/master/my-notes.md)**
 
 * Here is the **[spec-md](https://github.com/leebyron/spec-md)** repository.
 
