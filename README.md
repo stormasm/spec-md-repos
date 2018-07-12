@@ -3,9 +3,10 @@ Detailed notes on experience https://stormasm.github.io/spec17
 
 * Here is the **[spec-md](https://github.com/leebyron/spec-md)** repository.
 
-So everything is intact from
-[spec-md](https://github.com/leebyron/spec-md)
-and all I did was add a command to build my own personal blog / spec.
+So everything is intact from the
+[spec-md repo](https://github.com/leebyron/spec-md)
+and all I did was fork the repo
+add a command to build my own personal blog / spec.
 
 Initially out of the box when you run
 
