@@ -35,7 +35,7 @@ Run this command in one window...
 ```
 alias npw='npm run watch'
 
-    "watch": "nodemon --exec './bin/spec-md -m spec/metadata.json > out/index.html' spec17.md",
+"watch": "nodemon --exec './bin/spec-md -m spec/metadata.json > out/index.html' spec17.md"
 ```
 
 Run this command in the other window
