@@ -6,7 +6,7 @@ Detailed notes on experience https://stormasm.github.io/spec17
 So everything is intact from the
 [spec-md repo](https://github.com/leebyron/spec-md)
 and all I did was fork the repo
-add a command to build my own personal blog / spec.
+add a command to build my own personal blog.
 
 Initially out of the box when you run
 
