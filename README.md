@@ -1,11 +1,7 @@
 
 Detailed notes on experience https://stormasm.github.io/spec17
 
-* **[Read This First](https://github.com/stormasm/spec18/blob/master/my-notes.md)**
-
 * Here is the **[spec-md](https://github.com/leebyron/spec-md)** repository.
-
-* Here is my **[spec-md](https://github.com/stormblog/spec-md)** repository.
 
 So everything is intact from
 [spec-md](https://github.com/leebyron/spec-md)
